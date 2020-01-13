@@ -1,0 +1,10 @@
+
+#Fichier GitIgnore
+
+#absolue
+
+#relative
+*.exe
+*.o
+*.depend
+*.layout
